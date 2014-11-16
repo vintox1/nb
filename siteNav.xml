@@ -1,0 +1,8 @@
+<suite name="Automation101" >
+ <test name="nextbet" >
+  <classes>
+   <class name="nextbet.ContactUs" />
+   <class name="nextbet.PromotionsTab" />
+  </classes>
+ </test>
+</suite>
